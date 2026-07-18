@@ -139,33 +139,6 @@ The project successfully generated a realistic treasury dataset suitable for ana
 
 ---
 
-## Repository Structure
-
-```
-Treasury-Risk-Analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_Data_Generation.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   ├── 04_Modeling.ipynb
-│   └── 05_Evaluation.ipynb
-│
-├── figures/
-│
-├── documentation/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 Potential improvements include:
@@ -176,5 +149,3 @@ Potential improvements include:
 - Expand foreign exchange simulations across additional currencies and market conditions.
 - Integrate interactive dashboards using Power BI or Streamlit.
 - Generate larger-scale synthetic datasets for stress testing and scenario analysis.
-
----
